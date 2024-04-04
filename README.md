@@ -13,7 +13,11 @@ Tobeto App, kullanıcıların çeşitli işlevlere erişebildiği bir Flutter uy
 
 - Flutter
 - Dart
-- ...
+- Trello
+- Firabase
+- Figma
+- Video Player
+- Bloc
 
 ##  Projeyi Ayağa Kaldırmak için
 
